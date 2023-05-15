@@ -1,5 +1,7 @@
 from tkinter import *
+
 THEME_COLOR = "#229954"
+
 
 class UI:
     def __init__(self):
